@@ -21,8 +21,8 @@
 
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 ProgramName="Frps"
-ProgramPath="/usr/local/frps"
-NAME=frps
+ProgramPath="/usr/local/frps.lastest"
+NAME=frps.lastest
 BIN=${ProgramPath}/${NAME}
 CONFIGFILE=${ProgramPath}/frps.ini
 SCRIPTNAME=/etc/init.d/${NAME}
